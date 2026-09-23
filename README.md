@@ -1,8 +1,9 @@
 # AI Lab — Applied RAG, Agents & Evaluation
 
-A hands-on portfolio of applied-AI projects I built to go deep on the systems behind
-production LLM applications: retrieval-augmented generation (RAG), agentic workflows,
-retrieval/agent evaluation, and anomaly detection. The theme is a synthetic
+A hands-on applied-AI lab I designed, directed, reviewed and evaluated using AI-assisted
+development with Claude Code. The goal is to understand the architecture and engineering
+discipline behind production LLM systems — retrieval-augmented generation (RAG), agentic
+workflows, evaluation, grounding, and human-in-the-loop controls. The theme is a synthetic
 **healthcare pharmacy-claims** domain — chosen to mirror the regulated, data-heavy
 environments I work in.
 
@@ -13,11 +14,12 @@ environments I work in.
 > ⚠️ **All data here is synthetic.** Claims, members, drugs, and policies are fabricated for
 > demonstration — no real, client, or personal data is included.
 
-> 🛠️ **How this was built:** these projects are hands-on learning, developed with AI-assisted
-> coding (Claude Code). My focus was on *designing, directing, and evaluating* the systems —
-> retrieval quality, agent grounding, and evaluation harnesses — rather than hand-writing
-> boilerplate. That mirrors how I believe modern data/AI teams increasingly work, and how I
-> aim to lead them: fluent enough to make the architectural calls and judge the output.
+> 🛠️ **Development approach:** Implementation was generated iteratively with Claude Code under
+> my direction. I defined the problems, reviewed architecture and implementation choices,
+> tested behavior, challenged outputs, refined requirements, and evaluated system quality.
+> This repository demonstrates **AI-assisted engineering and architectural fluency** — not a
+> claim that every line was manually coded by me. That reflects how I believe modern data/AI
+> teams increasingly work, and how I aim to lead them.
 
 ## Projects
 
