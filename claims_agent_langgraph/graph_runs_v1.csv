@@ -1,0 +1,9 @@
+claim_id,outcome,note
+CLM2001,ALREADY_DONE,unchanged since the last run
+CLM2002,ALREADY_DONE,unchanged since the last run
+CLM2004,ALREADY_DONE,unchanged since the last run
+CLM2005,ALREADY_DONE,unchanged since the last run
+CLM2006,ALREADY_DONE,unchanged since the last run
+CLM2007,ALREADY_DONE,unchanged since the last run
+CLM2008,AWAITING_APPROVAL,"already paused, waiting on a human"
+CLM2009,COMPLETED,claim was corrected - reprocessed as v2

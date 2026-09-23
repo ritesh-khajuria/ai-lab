@@ -1,0 +1,25 @@
+run_at,claim_id,outcome,note
+2026-08-20T17:47:19,CLM2001,ALREADY_DONE,unchanged since the last run
+2026-08-20T17:47:19,CLM2002,ALREADY_DONE,unchanged since the last run
+2026-08-20T17:47:19,CLM2004,ALREADY_DONE,unchanged since the last run
+2026-08-20T17:47:19,CLM2005,ALREADY_DONE,unchanged since the last run
+2026-08-20T17:47:19,CLM2006,ALREADY_DONE,unchanged since the last run
+2026-08-20T17:47:19,CLM2007,ALREADY_DONE,unchanged since the last run
+2026-08-20T17:47:19,CLM2008,AWAITING_APPROVAL,"already paused, waiting on a human"
+2026-08-20T17:47:19,CLM2009,ALREADY_DONE,unchanged since the last run
+2026-08-20T20:07:16,CLM2001,ALREADY_DONE,unchanged since the last run
+2026-08-20T20:07:16,CLM2002,ALREADY_DONE,unchanged since the last run
+2026-08-20T20:07:16,CLM2004,ALREADY_DONE,unchanged since the last run
+2026-08-20T20:07:16,CLM2005,ALREADY_DONE,unchanged since the last run
+2026-08-20T20:07:16,CLM2006,ALREADY_DONE,unchanged since the last run
+2026-08-20T20:07:16,CLM2007,ALREADY_DONE,unchanged since the last run
+2026-08-20T20:07:16,CLM2008,AWAITING_APPROVAL,"already paused, waiting on a human"
+2026-08-20T20:07:16,CLM2009,ALREADY_DONE,unchanged since the last run
+2026-08-21T07:24:48,CLM2001,ALREADY_DONE,unchanged since the last run
+2026-08-21T07:24:48,CLM2002,ALREADY_DONE,unchanged since the last run
+2026-08-21T07:24:48,CLM2004,ALREADY_DONE,unchanged since the last run
+2026-08-21T07:24:48,CLM2005,ALREADY_DONE,unchanged since the last run
+2026-08-21T07:24:48,CLM2006,ALREADY_DONE,unchanged since the last run
+2026-08-21T07:24:48,CLM2007,ALREADY_DONE,unchanged since the last run
+2026-08-21T07:24:48,CLM2008,AWAITING_APPROVAL,"already paused, waiting on a human"
+2026-08-21T07:24:48,CLM2009,ALREADY_DONE,unchanged since the last run

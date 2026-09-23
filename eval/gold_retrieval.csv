@@ -1,0 +1,19 @@
+question,expected_source,note
+What is required before PLAN-A covers a GLP-1 drug?,plan_a_prior_authorization.md,core PA rule
+When is a prior authorization needed?,plan_a_prior_authorization.md,plain phrasing
+How soon can a maintenance drug be refilled?,plan_a_refill_policy.md,refill threshold
+What percentage of days supply must elapse before a refill?,plan_a_refill_policy.md,numeric rule
+What are the refill rules for Schedule II controlled substances?,plan_a_refill_policy.md,the oxycodone case
+How does a member appeal a denied claim?,plan_a_appeals.md,appeals route
+How long does a member have to file an appeal?,plan_a_appeals.md,appeal window
+What is a DUR reject?,plan_a_dur_policy.md,reject code 88
+What happens when drug utilization review flags a safety concern?,plan_a_dur_policy.md,88 phrased differently
+Is a non-formulary drug covered?,plan_a_formulary.md,formulary basics
+What tier is a preferred brand drug?,plan_a_formulary.md,tier lookup
+Is semaglutide covered by the plan?,plan_a_prior_authorization.md,GENERIC name - embeddings handle this
+Is Ozempic covered by the plan?,plan_a_prior_authorization.md,BRAND name - the known weakness
+Is Wegovy covered?,plan_a_prior_authorization.md,BRAND name
+Does the plan cover Zepbound?,plan_a_prior_authorization.md,BRAND name
+Metformin coverage,plan_a_formulary.md,GENERIC not in the lookup table - keyword half
+Atorvastatin tier,plan_a_formulary.md,GENERIC not in the lookup table - keyword half
+Is Lipitor covered?,plan_a_formulary.md,BRAND whose generic is atorvastatin - expansion half

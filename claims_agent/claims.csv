@@ -1,0 +1,8 @@
+claim_id,member_id,drug,ndc,quantity,days_supply,prescriber,plan,status,reject_code
+CLM1001,M100,Ozempic 1 mg pen,00169-4132-12,3,84,Dr. A. Rao,PLAN-A,REJECTED,88
+CLM1002,M100,Atorvastatin 20 mg tab,00071-0155-23,30,30,Dr. A. Rao,PLAN-A,REJECTED,A
+CLM1003,M101,Metformin 500 mg tab,00093-1048-01,60,30,Dr. B. Shah,PLAN-A,PAID,
+CLM1004,M100,Wegovy 0.5 mg pen,00169-4525-11,4,28,Dr. A. Rao,PLAN-A,REJECTED,75
+CLM1005,M101,Insulin glargine 100 units/mL,00088-2220-33,1,30,Dr. B. Shah,PLAN-A,PAID,
+CLM1006,M101,Oxycodone 5 mg tab,00406-0552-01,30,30,Dr. B. Shah,PLAN-A,REJECTED,79
+CLM1007,M101,Oxycodone 5 mg tab,00406-0552-01,30,30,Dr. B. Shah,PLAN-A,REJECTED,79

@@ -1,0 +1,11 @@
+claim_id,member_id,drug,ndc,quantity,days_supply,prescriber,plan,status,reject_code
+CLM2001,M100,Mounjaro 5 mg pen,00002-1506-80,4,28,Dr. A. Rao,PLAN-A,REJECTED,75
+CLM2002,M101,Lisinopril 10 mg tab,00093-1036-01,30,30,Dr. B. Shah,PLAN-A,REJECTED,79
+CLM2003,M100,Amoxicillin 500 mg cap,00093-3109-01,21,7,Dr. A. Rao,PLAN-A,PAID,
+CLM2004,M101,Warfarin 5 mg tab,00056-0176-70,30,30,Dr. B. Shah,PLAN-A,REJECTED,88
+CLM2005,M100,Ozempic 2 mg pen,00169-4181-13,3,84,Dr. A. Rao,PLAN-A,REJECTED,75
+CLM2006,M101,Zepbound 2.5 mg pen,00002-2506-80,4,28,Dr. B. Shah,PLAN-A,REJECTED,75
+CLM2007,M102,Wegovy 0.25 mg pen,00169-4525-13,4,28,Dr. C. Iyer,PLAN-A,REJECTED,75
+CLM2008,M103,Trulicity 1.5 mg pen,00002-1434-80,4,28,Dr. D. Nair,PLAN-A,REJECTED,75
+CLM2009,M103,Trulicity 1.5 mg pen,00002-1434-80,4,28,Dr. D. Nair,PLAN-A,REJECTED,75
+
