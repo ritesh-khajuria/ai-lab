@@ -13,6 +13,12 @@ environments I work in.
 > ⚠️ **All data here is synthetic.** Claims, members, drugs, and policies are fabricated for
 > demonstration — no real, client, or personal data is included.
 
+> 🛠️ **How this was built:** these projects are hands-on learning, developed with AI-assisted
+> coding (Claude Code). My focus was on *designing, directing, and evaluating* the systems —
+> retrieval quality, agent grounding, and evaluation harnesses — rather than hand-writing
+> boilerplate. That mirrors how I believe modern data/AI teams increasingly work, and how I
+> aim to lead them: fluent enough to make the architectural calls and judge the output.
+
 ## Projects
 
 ### 1. Claims agent — `claims_agent/`
