@@ -23,6 +23,10 @@ environments I work in.
 
 ## Projects
 
+Each folder has its own **architecture-decisions README** — the problem, why that architecture,
+what I reviewed, what failed first and what I changed, and production concerns. That's where the
+real thinking is (and it doubles as the interview conversation).
+
 ### 1. Claims agent — `claims_agent/`
 An agentic workflow over synthetic pharmacy claims: **policy retrieval (RAG)** over mock
 plan documents, query expansion, grounded decisioning, a reject/appeal queue, and
